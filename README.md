@@ -1,7 +1,5 @@
 # More takeaways on high street despite anti-obesity push
 
-![](https://ichef.bbci.co.uk/news/624/cpsprodpb/FC36/production/_102666546_policing.png)
-
 In October 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-45875294) UK high streets had the highest concentration of fast food outlets since 2010.
 
 Research suggests people most exposed to them are nearly twice as likely to be obese.
