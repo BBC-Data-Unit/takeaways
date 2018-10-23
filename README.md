@@ -1,5 +1,7 @@
 # More takeaways on high street despite anti-obesity push
 
+![](https://ichef.bbci.co.uk/news/660/cpsprodpb/595C/production/_103967822_gettyimages-951506644.jpg)
+
 In October 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-45875294) UK high streets had the highest concentration of fast food outlets since 2010.
 
 Research suggests people most exposed to them are nearly twice as likely to be obese.
@@ -21,11 +23,14 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * ITV News Bradford: [Hull and Bradford have country's highest proportions of fast food shops](https://www.itv.com/news/calendar/2018-10-23/hull-and-bradford-have-one-of-countrys-highest-proportions-of-fast-food-shops/)
 * Northumberland Gazette: [Figures reveal increase in fast-food outlets in Northumberland](https://www.northumberlandgazette.co.uk/news/figures-reveal-increase-in-fast-food-outlets-in-northumberland-1-9408492https://www.northumberlandgazette.co.uk/news/figures-reveal-increase-in-fast-food-outlets-in-northumberland-1-9408492)
 * ITV Central: [Rise in fast food outlets across the Midlands as obesity rates reach record high](https://www.itv.com/news/central/2018-10-23/rise-in-fast-food-outlets-across-the-midlands-as-obesity-rates-reach-record-high/)
-* 
-
-
-
-
+* Northampton Chronicle & Echo: [Takeaways make up a smaller slice of Northamptonshire's food outlets than in 2010](https://www.northamptonchron.co.uk/news/takeaways-make-up-a-smaller-slice-of-northamptonshire-s-food-outlets-than-in-2010-1-8678166)
+* Kidderminster Shuttle: [Worcestershire sees rise fast food outlets, BBC's Shared Data Unit reveals](https://www.kidderminstershuttle.co.uk/news/16999825.worcestershire-sees-rise-fast-food-outlets-bbcs-shared-data-unit-reveals/)
+* Sunderland Echo: [Sunderland is named as takeaway blackspot as obesity levels grow](https://www.sunderlandecho.com/news/health/sunderland-is-named-as-takeaway-blackspot-as-obesity-levels-grow-1-9409043)
+* Bromsgrove Advertiser: [Worcestershire sees rise fast food outlets, BBC's Shared Data Unit reveals](https://www.bromsgroveadvertiser.co.uk/news/16999825.worcestershire-sees-rise-fast-food-outlets-bbcs-shared-data-unit-reveals/)
+* Edinburgh Evening News: [Number of Edinburgh fast food outlets soaring, according to report](https://www.edinburghnews.scotsman.com/news/health/number-of-edinburgh-fast-food-outlets-soaring-according-to-report-1-4818437)
+* Stourbridge News: [Wellbeing boss talks tough as BBC data shows rise in fast food takeaways](https://www.stourbridgenews.co.uk/news/16999682.wellbeing-boss-talks-tough-as-bbc-data-shows-rise-in-fast-food-takeaways/)
+* Barking and Dagenham Post: [Fast food shop makes up majority of eateries in Barking and Dagenham](http://www.barkinganddagenhampost.co.uk/news/health/fast-food-barking-and-dagenham-junk-food-ons-office-for-national-statistics-1-5747523)
+* The Shields Gazette: [South Tyneside named as country’s fourth worst takeaway blackspot](https://www.shieldsgazette.com/news/south-tyneside-named-as-country-s-fourth-worst-takeaway-blackspot-1-9409038)
 
 * The story was also used by BBC Breakfast, the Victoria Derbyshire programme, BBC Radio 4 Today, BBC Radio 5 Live, [BBC Wales online](https://www.bbc.co.uk/news/uk-wales-45943124), BBC Radio Humberside, BBC Wiltshire, BBC Radio Cambridgeshire, BBC Radio Lincolnshire, BBC Radio Cumbria, BBC Radio York, BBC Radio Kent, BBC Radio Cornwall, BBC Hereford & Worcester
 
