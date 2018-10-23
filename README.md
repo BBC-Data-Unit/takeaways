@@ -15,10 +15,19 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * The Scotsman: [Calls to tackle the soaring number of fast food outlets in Scotland](https://www.scotsman.com/news/health/calls-to-tackle-the-soaring-number-of-fast-food-outlets-in-scotland-1-4818401) *23 October 2018*
 * ITV Wales: [73% of Blaenau Gwent's restaurants 'serve fast food'](https://www.itv.com/news/wales/2018-10-23/73-of-blaenau-gwents-restaurants-serve-fast-food/)
 * Rochdale Online: [Takeaway-saturated Rochdale is one of UK’s hotspots](https://www.rochdaleonline.co.uk/news-features/2/news-headlines/123195/takeawaysaturated-rochdale-is-one-of-uk%E2%80%99s-hotspots)
+* Cornish Stuff: [Fast Food taking over the high street – but Cornish kids buck trend](https://cornishstuff.com/2018/10/23/fast-food-taking-over-the-high-street-but-cornish-kids-buck-trend)
+* Yorkshire Evening Post: [Number of fast food outlets in Leeds is on the rise, figures reveal](https://www.yorkshireeveningpost.co.uk/news/number-of-fast-food-outlets-in-leeds-is-on-the-rise-figures-reveal-1-9408435)
+* News Guardian: [North Tyneside in top 30 for numbers of fast-food outlets](https://www.newsguardian.co.uk/news/north-tyneside-in-top-30-for-numbers-of-fast-food-outlets-1-9408500)
+* ITV News Bradford: [Hull and Bradford have country's highest proportions of fast food shops](https://www.itv.com/news/calendar/2018-10-23/hull-and-bradford-have-one-of-countrys-highest-proportions-of-fast-food-shops/)
+* Northumberland Gazette: [Figures reveal increase in fast-food outlets in Northumberland](https://www.northumberlandgazette.co.uk/news/figures-reveal-increase-in-fast-food-outlets-in-northumberland-1-9408492https://www.northumberlandgazette.co.uk/news/figures-reveal-increase-in-fast-food-outlets-in-northumberland-1-9408492)
+* ITV Central: [Rise in fast food outlets across the Midlands as obesity rates reach record high](https://www.itv.com/news/central/2018-10-23/rise-in-fast-food-outlets-across-the-midlands-as-obesity-rates-reach-record-high/)
+* 
 
 
 
-* The story was also used by BBC Breakfast, the Victoria Derbyshire programme, BBC Radio 4 Today, BBC Radio 5 Live, BBC Radio Humberside, BBC Wiltshire, BBC Radio Cambridgeshire, BBC Radio Lincolnshire, BBC Radio Cumbria, BBC Radio York, BBC Radio Kent, BBC Radio Cornwall, BBC Hereford & Worcester
+
+
+* The story was also used by BBC Breakfast, the Victoria Derbyshire programme, BBC Radio 4 Today, BBC Radio 5 Live, [BBC Wales online](https://www.bbc.co.uk/news/uk-wales-45943124), BBC Radio Humberside, BBC Wiltshire, BBC Radio Cambridgeshire, BBC Radio Lincolnshire, BBC Radio Cumbria, BBC Radio York, BBC Radio Kent, BBC Radio Cornwall, BBC Hereford & Worcester
 
 
 ## Get the data
