@@ -16,6 +16,9 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * The Scotsman: [Calls to tackle the soaring number of fast food outlets in Scotland](https://www.scotsman.com/news/health/calls-to-tackle-the-soaring-number-of-fast-food-outlets-in-scotland-1-4818401) *23 October 2018*
 * The Scotsman: [Leader comment: How Japan can help Scotland kick junk food habit](https://www.scotsman.com/news/opinion/leader-comment-how-japan-can-help-scotland-kick-junk-food-habit-1-4818389) *23 October 2018*
+* The Sun: [FAST FOOD NATION Number of takeaways soars by a third in just eight years — fuelling obesity epidemic](https://www.thesun.co.uk/news/7567910/obesity-epidemic-takeaway-fears/) *24 October 2018*
+* The Times: [Takeaways surge along with obesity](https://www.thetimes.co.uk/article/takeaways-surge-along-with-obesity-c5l9bfpzc) *24 October 2018*
+* Daily Mail/Mail Online: [Nation gorging on fast food: Record surge in takeaways on almost every high street is feeding Britain's crippling obesity crisis](https://www.dailymail.co.uk/news/article-6309241/Record-surge-takeaways-high-street-feeding-Britains-crippling-obesity-crisis.html) *24 October 2018*
 * ITV Wales: [73% of Blaenau Gwent's restaurants 'serve fast food'](https://www.itv.com/news/wales/2018-10-23/73-of-blaenau-gwents-restaurants-serve-fast-food/) *23 October 2018*
 * Rochdale Online: [Takeaway-saturated Rochdale is one of UK’s hotspots](https://www.rochdaleonline.co.uk/news-features/2/news-headlines/123195/takeawaysaturated-rochdale-is-one-of-uk%E2%80%99s-hotspots) *23 October 2018*
 * Cornish Stuff: [Fast Food taking over the high street – but Cornish kids buck trend](https://cornishstuff.com/2018/10/23/fast-food-taking-over-the-high-street-but-cornish-kids-buck-trend) *23 October 2018*
@@ -26,12 +29,21 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * ITV Central: [Rise in fast food outlets across the Midlands as obesity rates reach record high](https://www.itv.com/news/central/2018-10-23/rise-in-fast-food-outlets-across-the-midlands-as-obesity-rates-reach-record-high/) *23 October 2018*
 * Northampton Chronicle & Echo: [Takeaways make up a smaller slice of Northamptonshire's food outlets than in 2010](https://www.northamptonchron.co.uk/news/takeaways-make-up-a-smaller-slice-of-northamptonshire-s-food-outlets-than-in-2010-1-8678166) *23 October 2018*
 * Kidderminster Shuttle: [Worcestershire sees rise fast food outlets, BBC's Shared Data Unit reveals](https://www.kidderminstershuttle.co.uk/news/16999825.worcestershire-sees-rise-fast-food-outlets-bbcs-shared-data-unit-reveals/) *23 October 2018*
+* ITV News Anglia: [Number of takeaways up by a third in less than a month (sic)](https://www.itv.com/news/anglia/2018-10-23/number-of-takeaways-up-by-a-third-in-less-than-a-month/)
 * Sunderland Echo: [Sunderland is named as takeaway blackspot as obesity levels grow](https://www.sunderlandecho.com/news/health/sunderland-is-named-as-takeaway-blackspot-as-obesity-levels-grow-1-9409043) *23 October 2018*
 * Bromsgrove Advertiser: [Worcestershire sees rise fast food outlets, BBC's Shared Data Unit reveals](https://www.bromsgroveadvertiser.co.uk/news/16999825.worcestershire-sees-rise-fast-food-outlets-bbcs-shared-data-unit-reveals/) *23 October 2018*
 * Edinburgh Evening News: [Number of Edinburgh fast food outlets soaring, according to report](https://www.edinburghnews.scotsman.com/news/health/number-of-edinburgh-fast-food-outlets-soaring-according-to-report-1-4818437) *23 October 2018*
 * Stourbridge News: [Wellbeing boss talks tough as BBC data shows rise in fast food takeaways](https://www.stourbridgenews.co.uk/news/16999682.wellbeing-boss-talks-tough-as-bbc-data-shows-rise-in-fast-food-takeaways/) *23 October 2018*
 * Barking and Dagenham Post: [Fast food shop makes up majority of eateries in Barking and Dagenham](http://www.barkinganddagenhampost.co.uk/news/health/fast-food-barking-and-dagenham-junk-food-ons-office-for-national-statistics-1-5747523) *23 October 2018*
 * The Shields Gazette: [South Tyneside named as country’s fourth worst takeaway blackspot](https://www.shieldsgazette.com/news/south-tyneside-named-as-country-s-fourth-worst-takeaway-blackspot-1-9409038) *23 October 2018*
+* Pirate FM: [Revealed... how many fast food outlets there are in Cornwall](https://www.piratefm.co.uk/news/latest-news/2719192/revealed-how-many-fast-food-outlets-there-are-in-cornwall/) *23 October 2018*
+* Grimsby Live: [Grimsby and Cleethorpes ranked in national top 20 for highest concentration of takeaways](https://www.grimsbytelegraph.co.uk/news/grimsby-news/more-takeaways-ever-hit-grimsby-2138768) *23 October 2018*
+* South Wales Argus: [Blaenau Gwent is top of the table for takeaways among all council areas nationally](https://www.southwalesargus.co.uk/news/17002175.blaenau-gwent-is-top-of-the-table-for-takeaways/) *23 October 2018*
+* ecnmy.org: [Brits are getting fatter. Are takeaway joints to blame?](https://www.ecnmy.org/engage/forget-fried-chicken-says-uk-gov-obesity-not-peng-life/) *23 October 2018*
+* Catering Today: [UK takeaways increase 34% in eight years despite anti-obesity push](https://www.cateringtoday.co.uk/news/government/uk-takeaways-increase-34-in-eight-years-despite-anti-obesity-push/) *23 October 2018*
+* Ilford Recorder: [Takeaways up almost 50pc in Redbridge despite anti-obesity push](http://www.ilfordrecorder.co.uk/news/takeaways-grow-obesity-redbridge-1-5749035) *24 October 2018*
+* Bradford Telegraph & Argus: [Number of takeaways in Bradford more than doubles in eight years] *24 October 2018*
+* Kent Online: [Does Kent have too many fast food outlets?](https://www.kentonline.co.uk/kmtv/video/does-kent-have-too-many-fast-food-outlets-22665/) *24 October 2018*
 
 * The story was also used by BBC Breakfast, the Victoria Derbyshire programme, BBC Radio 4 Today, BBC Radio 5 Live, BBC Business Live on BBC World, Afternoon Live on the BBC News Channel, [BBC Wales online](https://www.bbc.co.uk/news/uk-wales-45943124), BBC Radio Wales, BBC Radio Leeds, BBC Three Counties Radio, BBC Radio Sheffield, BBC Look North TV, BBC South Today TV, BBC Radio Humberside, BBC Wiltshire, BBC Radio Cambridgeshire, BBC Radio Lincolnshire, BBC Radio Cumbria, BBC Radio York, BBC Radio Kent, BBC Radio Cornwall, BBC Hereford & Worcester
 
