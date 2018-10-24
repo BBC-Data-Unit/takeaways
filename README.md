@@ -43,7 +43,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * ecnmy.org: [Brits are getting fatter. Are takeaway joints to blame?](https://www.ecnmy.org/engage/forget-fried-chicken-says-uk-gov-obesity-not-peng-life/) *23 October 2018*
 * Catering Today: [UK takeaways increase 34% in eight years despite anti-obesity push](https://www.cateringtoday.co.uk/news/government/uk-takeaways-increase-34-in-eight-years-despite-anti-obesity-push/) *23 October 2018*
 * Ilford Recorder: [Takeaways up almost 50pc in Redbridge despite anti-obesity push](http://www.ilfordrecorder.co.uk/news/takeaways-grow-obesity-redbridge-1-5749035) *24 October 2018*
-* Bradford Telegraph & Argus: [Number of takeaways in Bradford more than doubles in eight years] *24 October 2018*
+* Bradford Telegraph & Argus: [Number of takeaways in Bradford more than doubles in eight years](https://www.thetelegraphandargus.co.uk/news/17003385.number-of-takeaways-in-bradford-more-than-doubles-in-eight-years/) *24 October 2018*
 * Kent Online: [Does Kent have too many fast food outlets?](https://www.kentonline.co.uk/kmtv/video/does-kent-have-too-many-fast-food-outlets-22665/) *24 October 2018*
 
 
