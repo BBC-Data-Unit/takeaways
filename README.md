@@ -16,6 +16,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * The Scotsman: [Calls to tackle the soaring number of fast food outlets in Scotland](https://www.scotsman.com/news/health/calls-to-tackle-the-soaring-number-of-fast-food-outlets-in-scotland-1-4818401) *23 October 2018*
 * The Scotsman: [Leader comment: How Japan can help Scotland kick junk food habit](https://www.scotsman.com/news/opinion/leader-comment-how-japan-can-help-scotland-kick-junk-food-habit-1-4818389) *23 October 2018*
+* LBC radio: [How can you eat well when unhealthy food is everywhere?](https://twitter.com/LBC/status/1054750993345380352) *23 October 2018*
 * The Sun: [FAST FOOD NATION Number of takeaways soars by a third in just eight years — fuelling obesity epidemic](https://www.thesun.co.uk/news/7567910/obesity-epidemic-takeaway-fears/) *24 October 2018*
 * The Times: [Takeaways surge along with obesity](https://www.thetimes.co.uk/article/takeaways-surge-along-with-obesity-c5l9bfpzc) *24 October 2018*
 * Daily Mail/Mail Online: [Nation gorging on fast food: Record surge in takeaways on almost every high street is feeding Britain's crippling obesity crisis](https://www.dailymail.co.uk/news/article-6309241/Record-surge-takeaways-high-street-feeding-Britains-crippling-obesity-crisis.html) *24 October 2018*
@@ -44,6 +45,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Ilford Recorder: [Takeaways up almost 50pc in Redbridge despite anti-obesity push](http://www.ilfordrecorder.co.uk/news/takeaways-grow-obesity-redbridge-1-5749035) *24 October 2018*
 * Bradford Telegraph & Argus: [Number of takeaways in Bradford more than doubles in eight years] *24 October 2018*
 * Kent Online: [Does Kent have too many fast food outlets?](https://www.kentonline.co.uk/kmtv/video/does-kent-have-too-many-fast-food-outlets-22665/) *24 October 2018*
+
 
 * The story was also used by BBC Breakfast, the Victoria Derbyshire programme, BBC Radio 4 Today, BBC Radio 5 Live, BBC Business Live on BBC World, Afternoon Live on the BBC News Channel, [BBC Wales online](https://www.bbc.co.uk/news/uk-wales-45943124), BBC Radio Wales, BBC Radio Leeds, BBC Three Counties Radio, BBC Radio Sheffield, BBC Look North TV, BBC South Today TV, BBC Radio Humberside, BBC Wiltshire, BBC Radio Cambridgeshire, BBC Radio Lincolnshire, BBC Radio Cumbria, BBC Radio York, BBC Radio Kent, BBC Radio Cornwall, BBC Hereford & Worcester
 
