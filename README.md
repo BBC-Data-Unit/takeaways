@@ -51,8 +51,10 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Ilford Recorder: [Takeaways up almost 50pc in Redbridge despite anti-obesity push](http://www.ilfordrecorder.co.uk/news/takeaways-grow-obesity-redbridge-1-5749035) *24 October 2018*
 * Blackpool Gazette: [Surge in Blackpool takeaways coincides with rise in obesity](https://www.blackpoolgazette.co.uk/news/health/surge-in-blackpool-takeaways-coincides-with-rise-in-obesity-1-9411409) *24 October 2018*
 * Lincolnshire Reporter: [Rise in takeaways defies efforts to tackle obesity](https://lincolnshirereporter.co.uk/2018/10/rise-in-takeaways-defies-efforts-to-tackle-obesity/) *24 October 2018*
+* Wigan Today: [Hefty increase in the number of Wigan takeaways](https://www.wigantoday.net/news/hefty-increase-in-the-number-of-wigan-takeaways-1-9410207) *24 October 2018*
 * Bradford Telegraph & Argus: [Number of takeaways in Bradford more than doubles in eight years](https://www.thetelegraphandargus.co.uk/news/17003385.number-of-takeaways-in-bradford-more-than-doubles-in-eight-years/) *24 October 2018*
 * Kent Online: [Does Kent have too many fast food outlets?](https://www.kentonline.co.uk/kmtv/video/does-kent-have-too-many-fast-food-outlets-22665/) *24 October 2018*
+* Daddyhood.net: [Record surge in takeaways on almost every high street](https://daddyhood.net/record-surge-in-takeaways-on-almost-every-high-street-4489.html) *24 October 2018*
 * Stoke Sentinel/StokeonTrentLive: [Revealed: The HUGE number of takeaways we now have in Stoke-on-Trent - so are we a city of fast food addicts?](https://www.stokesentinel.co.uk/news/health/revealed-huge-number-takeaways-now-2143595) *25 October 2018*
 * Footprint: [NEW POWERS FAILING TO RESTRICT TAKEAWAYS](http://www.foodservicefootprint.com/news/new-powers-failing-to-restrict-takeaways) *25 October 2018*
 * Rotherham Advertiser: ["Ditch the junk food" call as Rotherham takeaway numbers soar](https://www.rotherhamadvertiser.co.uk/news/view,ditch-the-junk-food-call-as-rotherham-takeaway-numbers-soar_29139.htm) *26 October 2018*
