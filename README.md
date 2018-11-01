@@ -59,7 +59,13 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Footprint: [NEW POWERS FAILING TO RESTRICT TAKEAWAYS](http://www.foodservicefootprint.com/news/new-powers-failing-to-restrict-takeaways) *25 October 2018*
 * Rotherham Advertiser: ["Ditch the junk food" call as Rotherham takeaway numbers soar](https://www.rotherhamadvertiser.co.uk/news/view,ditch-the-junk-food-call-as-rotherham-takeaway-numbers-soar_29139.htm) *26 October 2018*
 * Kent Online: [Rising number of fast food outlets in Kent](https://www.kentonline.co.uk/kent/news/big-rise-in-fast-food-outlets-192218/) *26 October 2018*
+* Daily Echo: [The crazy growth of coffee shops and fast food outlets](https://www.bournemouthecho.co.uk/news/17068591.the-crazy-growth-of-coffee-shops-and-fast-food-outlets/) *27 October 2018*
 * Romford Recorder: [Takeaways grow in number in Havering despite anti-obesity push](http://www.romfordrecorder.co.uk/news/havering-takeaway-increase-1-5754689) *29 October 2018*
+* Wales: Daily Post: [Conwy revealed to be one of the fast food capitals of the UK](https://www.dailypost.co.uk/news/north-wales-news/conwy-revealed-one-fast-food-15348905) *31 October 2018*
+* Scotland: Border Telegraph: [Fast food outlets on rise in Borders](https://www.bordertelegraph.com/news/17194767.fast-food-outlets-on-rise-in-borders/?ref=rss) *1 November 2018*
+* Southwark News: [NUMBER OF SOUTHWARK FAST FOOD OUTLETS INCREASE DESPITE LINK TO HIGH CHILD OBESITY FIGURES](https://www.southwarknews.co.uk/news/fast-food-takeaway-southwark-increase/) *1 November 2018*
+* Scotland: Peeblesshire News: [Fast food outlets on rise in Borders](https://www.peeblesshirenews.com/news/17194769.fast-food-outlets-on-rise-in-borders/) *1 November 2018*
+
 
 
 * The story was also used by BBC Breakfast, the [Victoria Derbyshire programme](https://drive.google.com/open?id=1cnRYWyza04RB0dSKjj_XMYHcPj2dDM2H), [the BBC's national 6pm news](https://drive.google.com/open?id=1EQbqeQRpDf0TnIBauVtArdQIfdKRuAcj), BBC Radio 4 Today, BBC Radio 5 Live, [BBC Sunday Morning Live](https://drive.google.com/open?id=1MtUIW8nfYa46AqTyr-k1SNvSXEg64zAY), BBC Business Live on BBC World, [Afternoon Live on the BBC News Channel](https://drive.google.com/open?id=1AYa5JYd_4wPhGoJ3uObgu3adfWMTWFDY), BBC Homepage, [BBC Wales online](https://www.bbc.co.uk/news/uk-wales-45943124), BBC Radio Wales, BBC Radio Leeds, BBC Three Counties Radio, BBC Radio Sheffield, BBC Look North TV, BBC South Today TV, BBC Radio Humberside, BBC Wiltshire, BBC Radio Cambridgeshire, BBC Radio Lincolnshire, BBC Radio Cumbria, BBC Radio York, BBC Radio Kent, BBC Radio Cornwall, BBC Hereford & Worcester, BBC Radio Solent, BBC Radio Suffolk, BBC Radio Shropshire and was distributed by the Press Association
