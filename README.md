@@ -73,7 +73,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 ## Get the data
 
-* [Takeaway rates data](https://docs.google.com/spreadsheets/d/1v9Cv6wBAAspfUiBQUjAUON1h5GJ5WAO1xZOU3d_URJM/edit#gid=738520790)
+* [Takeaway rates data](https://docs.google.com/spreadsheets/d/1v9Cv6wBAAspfUiBQUjAUON1h5GJ5WAO1xZOU3d_URJM/edit?usp=sharing)
 
 ## Visualisation
 
